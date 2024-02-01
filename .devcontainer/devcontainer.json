@@ -12,7 +12,8 @@
 			"extensions": [
 				"yzhang.markdown-all-in-one",
 				"DavidAnson.vscode-markdownlint",
-				"esbenp.prettier-vscode"
+				"esbenp.prettier-vscode",
+				"mdickin.markdown-shortcuts"
 			]
 		}
 	}

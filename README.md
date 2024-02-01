@@ -6,7 +6,6 @@ A curated list of awesome documentation based libraries that help build small an
 
 - [Courses](#courses)
 - [Articles](#articles)
-- [JavaScript/TypeScript](#javascripttypescript)
 
 ## Courses
 
@@ -14,4 +13,6 @@ A curated list of awesome documentation based libraries that help build small an
 
 ## Articles
 
-## JavaScript/TypeScript
+- [How Google's Technical Writing Course Helped Me Become a Better Writer](https://www.freecodecamp.org/news/what-google-taught-me-about-technical-writting)
+- [How to Write Your First Technical Book: Tools, Techniques, and Resources for First-time Developer Authors](https://www.freecodecamp.org/news/how-to-write-your-first-technical-book)
+- [A practical guide to writing technical specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)

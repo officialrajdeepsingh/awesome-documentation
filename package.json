@@ -2,14 +2,14 @@
   "name": "awesome-documentation",
   "description": "> A curated list of awesome documentation based libraries that help build small and large-scale applications with next.js.",
   "version": "1.0.0",
-  "main": "index.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/officialrajdeepsingh/awesome-documentation.git"
   },
   "keywords": [
-    "documentation","awesome","awesome-list"
+    "documentation",
+    "awesome",
+    "awesome-list"
   ],
   "author": "Rajdeep Singh",
   "license": "MIT",

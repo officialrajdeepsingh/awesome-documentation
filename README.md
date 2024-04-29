@@ -6,7 +6,8 @@ A curated list of awesome documentation based libraries that help build small an
 
 - [Courses](#courses)
 - [Articles](#articles)
-- [JavaScript/TypeScript](#javascripttypescript)
+- [Platform](#platform)
+- [JavaScript](#javascript)
 
 ## Courses
 
@@ -18,12 +19,12 @@ A curated list of awesome documentation based libraries that help build small an
 - [How to Write Your First Technical Book: Tools, Techniques, and Resources for First-time Developer Authors](https://www.freecodecamp.org/news/how-to-write-your-first-technical-book)
 - [A practical guide to writing technical specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
 
-## Platform/Services
+## Platform
 
-- [Mintlify](https://mintlify.com/) - Mintlify is a modern standard platform to build a documentation site. 
-- [GitBook](https://www.gitbook.com/) - GitBook is knowledge management platform for technical teams
+- [Mintlify](https://mintlify.com/) - Mintlify is a modern standard platform to build a documentation site.
+- [GitBook](https://www.gitbook.com/) - GitBook is knowledge management platform for technical teams.
 
-## JavaScript/TypeScript
+## JavaScript
 
 - [Nextra](https://nextra.site/) - Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
 - [Markdoc](https://markdoc.dev/) - Markdoc is a powerful, flexible, Markdown-based authoring framework.
@@ -33,4 +34,4 @@ A curated list of awesome documentation based libraries that help build small an
 - [Lume](https://lume.land) - The fast & flexible static site generator for Deno.
 - [Docsify.js](https://docsify.js.org) - A magical documentation site generator.
 - [Code doc](https://codedoc.cc) - Code Doc is a simple, lightweight, easy-to-configure documentation generator for modern software documentation.
-- [Starlight](https://starlight.astro.build/) - Build beautiful, accessible, high-performance documentation websites with Astro. 
+- [Starlight](https://starlight.astro.build/) - Build beautiful, accessible, high-performance documentation websites with Astro.

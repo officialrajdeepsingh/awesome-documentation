@@ -18,6 +18,11 @@ A curated list of awesome documentation based libraries that help build small an
 - [How to Write Your First Technical Book: Tools, Techniques, and Resources for First-time Developer Authors](https://www.freecodecamp.org/news/how-to-write-your-first-technical-book)
 - [A practical guide to writing technical specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
 
+## Platform/Services
+
+- [Mintlify](https://mintlify.com/) - Mintlify is a modern standard platform to build a documentation site. 
+- [GitBook](https://www.gitbook.com/) - GitBook is knowledge management platform for technical teams
+
 ## JavaScript/TypeScript
 
 - [Nextra](https://nextra.site/) - Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.

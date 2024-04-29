@@ -33,3 +33,4 @@ A curated list of awesome documentation based libraries that help build small an
 - [Lume](https://lume.land) - The fast & flexible static site generator for Deno.
 - [Docsify.js](https://docsify.js.org) - A magical documentation site generator.
 - [Code doc](https://codedoc.cc) - Code Doc is a simple, lightweight, easy-to-configure documentation generator for modern software documentation.
+- [Starlight](https://starlight.astro.build/) - Build beautiful, accessible, high-performance documentation websites with Astro. 

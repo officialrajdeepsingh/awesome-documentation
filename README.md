@@ -23,7 +23,7 @@ A curated list of awesome documentation based libraries that help build small an
 
 - [Mintlify](https://mintlify.com/) - Mintlify is a modern standard platform to build a documentation site.
 - [GitBook](https://www.gitbook.com/) - GitBook is knowledge management platform for technical teams.
-- [Doocs](https://doocs.app) - Publish documentation site in minutes with clean UI and powerful editor. 
+- [Doocs](https://doocs.app) - Publish documentation site in minutes with clean UI and powerful editor.
 - [Archbee](https://www.archbee.com) - Build small and large documentation sites using modern tools and technology.
 - [Document360](https://document360.com/) - AI-Powered Knowledge Base Software That Scales With Your Product.
 - [Readme](https://readme.com/documentation) - Build a better documentation.

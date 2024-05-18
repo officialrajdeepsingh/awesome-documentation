@@ -39,3 +39,4 @@ A curated list of awesome documentation based libraries that help build small an
 - [Docsify.js](https://docsify.js.org) - A magical documentation site generator.
 - [Code doc](https://codedoc.cc) - Code Doc is a simple, lightweight, easy-to-configure documentation generator for modern software documentation.
 - [Starlight](https://starlight.astro.build/) - Build beautiful, accessible, high-performance documentation websites with Astro.
+- [Compodoc](https://compodoc.app/) - Compodoc is a documentation tool for Angular applications that generate static documentation websites.

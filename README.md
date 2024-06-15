@@ -13,6 +13,7 @@ A curated list of awesome documentation based libraries that help build small an
 
 - [Technical Writing Courses By Google](https://developers.google.com/tech-writing) - Learn to write better technical documents with our courses and resources, including insights into the role of technical writers at Google.
 - [GitLab Technical Writing Fundamentals](https://university.gitlab.com/courses/gitlab-technical-writing-fundamentals) - The GitLab Technical Writing Fundamentals course can help you improve your documentation by guiding grammar, writing, and topic selection.
+- [Creating Effective Documentation for Developers course by cncf](https://trainingportal.linuxfoundation.org/courses/creating-effective-documentation-for-developers-lfc112) - This course will help you understand how to write API documentation.
 
 ## Articles
 

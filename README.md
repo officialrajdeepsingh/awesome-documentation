@@ -43,3 +43,4 @@ A curated list of awesome documentation based libraries that help build small an
 - [Starlight](https://starlight.astro.build/) - Build beautiful, accessible, high-performance documentation websites with Astro.
 - [Compodoc](https://compodoc.app/) - Compodoc is a documentation tool for Angular applications that generate static documentation websites.
 - [Fumadocs](https://fumadocs.vercel.app/) - The Fumadocs is a powerful framework for building documentation sites in Next.js using the power of Next.js App Router and React Component.
+- [MDXTS](https://www.mdxts.dev) - The MDXTS is a content & documentation SDK for React and Nextjs. It helps to build a documentation website quickly and efficiently.

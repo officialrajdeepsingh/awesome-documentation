@@ -45,3 +45,4 @@ A curated list of awesome documentation based libraries that help build small an
 - [Fumadocs](https://fumadocs.vercel.app/) - The Fumadocs is a powerful framework for building documentation sites in Next.js using the power of Next.js App Router and React Component.
 - [MDXTS](https://www.mdxts.dev) - The MDXTS is a content & documentation SDK for React and Nextjs. It helps to build a documentation website quickly and efficiently.
 - [Doks](https://getdoks.org/) - Build a fantastic documentation website with Doks that is fast, accessible, and easy to use.
+- [Code Hike](https://codehike.org) - Build rich content websites with Markdown and React.

@@ -47,3 +47,4 @@ A curated list of awesome documentation based libraries that help build small an
 - [Doks](https://getdoks.org/) - Build a fantastic documentation website with Doks that is fast, accessible, and easy to use.
 - [Code Hike](https://codehike.org) - Build rich content websites with Markdown and React.
 - [Type Docs](https://github.com/TypeStrong/typedoc) - Generate the documentation for the TypeScript projects.
+- [JsDoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.

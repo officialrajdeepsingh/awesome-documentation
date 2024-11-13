@@ -46,5 +46,5 @@ A curated list of awesome documentation based libraries that help build small an
 - [MDXTS](https://www.mdxts.dev) - The MDXTS is a content & documentation SDK for React and Nextjs. It helps to build a documentation website quickly and efficiently.
 - [Doks](https://getdoks.org/) - Build a fantastic documentation website with Doks that is fast, accessible, and easy to use.
 - [Code Hike](https://codehike.org) - Build rich content websites with Markdown and React.
-- [Type Docs](https://github.com/TypeStrong/typedoc) - Generate the documentation for the TypeScript projects.
+- [Type Docs](https://github.com/TypeStrong/typedoc) - Generate the documentation for the TypeScript.
 - [JsDoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.

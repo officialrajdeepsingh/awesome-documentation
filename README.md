@@ -29,6 +29,7 @@ A curated list of awesome documentation based libraries that help build small an
 - [Archbee](https://www.archbee.com) - Build small and large documentation sites using modern tools and technology.
 - [Document360](https://document360.com/) - AI-Powered Knowledge Base Software That Scales With Your Product.
 - [Readme](https://readme.com/documentation) - Build a better documentation.
+- [Nuxt Studio](https://nuxt.studio/) - Nuxt Studio is a Git-based CMS for Nuxt that offers easy editing and limitless customization for your Nuxt Content website.
 
 ## JavaScript
 

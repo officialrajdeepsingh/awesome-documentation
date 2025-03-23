@@ -51,3 +51,4 @@ A curated list of awesome documentation based libraries that help build small an
 - [JsDoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [ReNoun](https://www.renoun.dev/) - The ReNoun toolkit is documentation that matches the quality of your product.
 - [Docmost](https://docmost.com/) - Docmost is an open-source collaborative wiki and documentation software that enables effortless creation, collaboration, and sharing of knowledge.
+- [Docs Page](https://docs.page) - The docs.page is a free Open Source project, allowing you to create instant, fast, beautiful documentation with zero configuration.

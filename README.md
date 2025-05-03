@@ -31,6 +31,7 @@ A curated list of awesome documentation based libraries that help build small an
 - [Readme](https://readme.com/documentation) - Build a better documentation.
 - [Nuxt Studio](https://nuxt.studio/) - Nuxt Studio is a Git-based CMS for Nuxt that offers easy editing and limitless customization for your Nuxt Content website.
 - [Github Wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) - GitHub Wiki allows developers to create and manage documentation alongside their code in GitHub repositories.
+- [Hashnode Docs](https://hashnode.com/products/docs) - Hashnode Docs helps developers and teams create and manage documentation for their product.
 
 ## JavaScript
 

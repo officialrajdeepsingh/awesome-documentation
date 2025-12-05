@@ -1,6 +1,6 @@
 # Awesome Documentation[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
-A curated list of awesome documentation based libraries that help build small and large-scale applications with next.js.
+A curated list of awesome documentation-based libraries that help build small and large-scale applications with next.js.
 
 ## Contents <!-- omit in toc -->
 
@@ -13,7 +13,7 @@ A curated list of awesome documentation based libraries that help build small an
 
 - [Technical Writing Courses By Google](https://developers.google.com/tech-writing) - Learn to write better technical documents with our courses and resources, including insights into the role of technical writers at Google.
 - [GitLab Technical Writing Fundamentals By GitLab](https://university.gitlab.com/courses/gitlab-technical-writing-fundamentals) - The GitLab Technical Writing Fundamentals course can help you improve your documentation by guiding grammar, writing, and topic selection.
-- [Creating Effective Documentation for Developers course By Linux Foundation](https://training.linuxfoundation.org/training/open-source-technical-documentation-essentials-lfc111) - This course will help you understand how to write API documentation.
+- [Creating Effective Documentation for Developers course by Linux Foundation](https://training.linuxfoundation.org/training/open-source-technical-documentation-essentials-lfc111) - This course will help you understand how to write API documentation.
 
 ## Articles
 
@@ -25,14 +25,15 @@ A curated list of awesome documentation based libraries that help build small an
 ## Platform
 
 - [Mintlify](https://mintlify.com/) - Mintlify is a modern standard platform to build a documentation site.
-- [GitBook](https://www.gitbook.com/) - GitBook is knowledge management platform for technical teams.
-- [Doocs](https://doocs.app) - Publish documentation site in minutes with clean UI and powerful editor.
+- [GitBook](https://www.gitbook.com/) - GitBook is a knowledge management platform for technical teams.
+- [Doocs](https://doocs.app) - Publish a documentation site in minutes with a clean UI and powerful editor.
 - [Archbee](https://www.archbee.com) - Build small and large documentation sites using modern tools and technology.
 - [Document360](https://document360.com/) - AI-Powered Knowledge Base Software That Scales With Your Product.
 - [Readme](https://readme.com/documentation) - Build a better documentation.
 - [Nuxt Studio](https://nuxt.studio/) - Nuxt Studio is a Git-based CMS for Nuxt that offers easy editing and limitless customization for your Nuxt Content website.
 - [GitHub Wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) - GitHub Wiki allows developers to create and manage documentation alongside their code in GitHub repositories.
 - [Hashnode Docs](https://hashnode.com/products/docs) - Hashnode Docs helps developers and teams create and manage documentation for their product.
+- [Documentation.AI](https://documentation.ai) - The Official AI Documentation Platform. Create and publish improved documentation with Documentation AI today.
 
 ## JavaScript
 

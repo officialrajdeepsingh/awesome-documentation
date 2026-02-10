@@ -46,12 +46,12 @@ A curated list of awesome documentation-based libraries that help build small an
 - [Docsify.js](https://docsify.js.org) - A magical documentation site generator.
 - [Code doc](https://codedoc.cc) - Code Doc is a simple, lightweight, easy-to-configure documentation generator for modern software documentation.
 - [Starlight](https://starlight.astro.build/) - Build beautiful, accessible, high-performance documentation websites with Astro.
-- [Compodoc](https://compodoc.app/) - Compodoc is a documentation tool for Angular applications that generate static documentation websites.
-- [Fumadocs](https://fumadocs.vercel.app/) - The Fumadocs is a powerful framework for building documentation sites in Next.js using the power of Next.js App Router and React Component.
+- [Compodoc](https://compodoc.app/) - Compodoc is a documentation tool for Angular applications that generates static documentation websites.
+- [Fumadocs](https://fumadocs.vercel.app/) - Fumadocs is a powerful framework for building documentation sites in Next.js using the power of Next.js App Router and React Component.
 - [MDXTS](https://www.mdxts.dev) - The MDXTS is a content & documentation SDK for React and Nextjs. It helps to build a documentation website quickly and efficiently.
 - [Doks](https://getdoks.org/) - Build a fantastic documentation website with Doks that is fast, accessible, and easy to use.
 - [Code Hike](https://codehike.org) - Build rich content websites with Markdown and React.
-- [Type Docs](https://github.com/TypeStrong/typedoc) - Generate the documentation for the TypeScript.
+- [Type Docs](https://github.com/TypeStrong/typedoc) - Generate the documentation for TypeScript.
 - [JsDoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [ReNoun](https://www.renoun.dev/) - The ReNoun toolkit is documentation that matches the quality of your product.
 - [Docmost](https://docmost.com/) - Docmost is an open-source collaborative wiki and documentation software that enables effortless creation, collaboration, and sharing of knowledge.

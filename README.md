@@ -8,6 +8,7 @@ A curated list of awesome documentation-based libraries that help build small an
 - [Articles](#articles)
 - [Platform](#platform)
 - [JavaScript](#javascript)
+- [Example Documentation Sites](#example-documentation-sites)
 
 ## Courses
 
@@ -58,4 +59,8 @@ A curated list of awesome documentation-based libraries that help build small an
 - [Docmost](https://docmost.com/) - Docmost is an open-source collaborative wiki and documentation software that enables effortless creation, collaboration, and sharing of knowledge.
 - [Docs Page](https://docs.page) - The `docs.page` is a free Open Source project, allowing you to create instant, fast, beautiful documentation with zero configuration.
 - [Docus](https://docus.dev) - Write beautiful documentation with Markdown.
-- [Rspress](https://rspress.rs) - Rspress is a fast React-based static site generator for modern documentation, blogs, and product websites. 
+- [Rspress](https://rspress.rs) - Rspress is a fast React-based static site generator for modern documentation, blogs, and product websites.
+
+## Example Documentation Sites
+
+- [Xquik API Documentation](https://docs.xquik.com) - REST API documentation for the Xquik X/Twitter automation platform. Built with Mintlify. Covers 40+ API endpoints, MCP server setup, webhook integration, OpenAPI spec, and interactive examples. ([Source](https://github.com/Xquik-dev/xquik-docs))

@@ -34,6 +34,7 @@ A curated list of awesome documentation-based libraries that help build small an
 - [GitHub Wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) - GitHub Wiki allows developers to create and manage documentation alongside their code in GitHub repositories.
 - [Hashnode Docs](https://hashnode.com/products/docs) - Hashnode Docs helps developers and teams create and manage documentation for their product.
 - [Documentation.AI](https://documentation.ai) - The Official AI Documentation Platform. Create and publish improved documentation with Documentation AI today.
+- [Trupeer](https://www.trupeer.ai/) - Trupeer is an AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
 
 ## JavaScript
 

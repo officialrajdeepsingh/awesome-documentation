@@ -35,6 +35,7 @@ A curated list of awesome documentation-based libraries that help build small an
 - [Hashnode Docs](https://hashnode.com/products/docs) - Hashnode Docs helps developers and teams create and manage documentation for their product.
 - [Documentation.AI](https://documentation.ai) - The Official AI Documentation Platform. Create and publish improved documentation with Documentation AI today.
 - [Trupeer](https://www.trupeer.ai/) - Trupeer is an AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
+- [Jamdesk](https://jamdesk.com/) - A developer documentation platform with MDX authoring, OpenAPI references, AI chat, and custom domains.
 
 ## JavaScript
 

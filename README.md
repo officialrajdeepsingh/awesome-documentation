@@ -42,14 +42,14 @@ A curated list of awesome documentation-based libraries that help build small an
 - [Nextra](https://nextra.site/) - Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
 - [Markdoc](https://markdoc.dev/) - Markdoc is a powerful, flexible, Markdown-based authoring framework.
 - [Outstatic](https://outstatic.com) - Outstatic is a new static site content management system(CMS) built with Next.js. Special built for Next.js. It works with a page and app router.
-- [Content layer](https://www.npmjs.com/package/contentlayer) - The content layer works with nextjs and markdown and helps build the blog application.
+- [Content layer](https://www.npmjs.com/package/contentlayer) - The content layer works with nextjs and Markdown and helps build the blog application.
 - [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly, focus on your content.
 - [Lume](https://lume.land) - The fast & flexible static site generator for Deno.
 - [Docsify.js](https://docsify.js.org) - A magical documentation site generator.
 - [Code doc](https://codedoc.cc) - Code Doc is a simple, lightweight, easy-to-configure documentation generator for modern software documentation.
 - [Starlight](https://starlight.astro.build/) - Build beautiful, accessible, high-performance documentation websites with Astro.
 - [Compodoc](https://compodoc.app/) - Compodoc is a documentation tool for Angular applications that generates static documentation websites.
-- [Fumadocs](https://fumadocs.vercel.app/) - Fumadocs is a powerful framework for building documentation sites in Next.js using the power of Next.js App Router and React Component.
+- [Fumadocs](https://fumadocs.vercel.app/) - Fumadocs is a powerful framework for building documentation sites in Next.js using the power of Next.js App Router and React components.
 - [MDXTS](https://www.mdxts.dev) - The MDXTS is a content & documentation SDK for React and Nextjs. It helps to build a documentation website quickly and efficiently.
 - [Doks](https://getdoks.org/) - Build a fantastic documentation website with Doks that is fast, accessible, and easy to use.
 - [Code Hike](https://codehike.org) - Build rich content websites with Markdown and React.

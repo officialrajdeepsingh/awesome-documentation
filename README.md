@@ -26,6 +26,7 @@ A curated list of awesome documentation-based libraries that help build small an
 ## Platform
 
 - [Mintlify](https://mintlify.com/) - Mintlify is a modern standard platform to build a documentation site.
+- [Papervine](https://www.papervine.io/) - AI-powered self-updating knowledge platform. Open source or hosted.
 - [GitBook](https://www.gitbook.com/) - GitBook is a knowledge management platform for technical teams.
 - [Archbee](https://www.archbee.com) - Build small and large documentation sites using modern tools and technology.
 - [Document360](https://document360.com/) - AI-Powered Knowledge Base Software That Scales With Your Product.

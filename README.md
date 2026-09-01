@@ -63,3 +63,4 @@ A curated list of awesome documentation-based libraries that help build small an
 - [Rspress](https://rspress.rs) - Rspress is a fast React-based static site generator for modern documentation, blogs, and product websites.
 - [VitePress](https://vitepress.dev) - VitePress is a Vite and Vue-powered static site generator designed specifically for creating fast, beautiful documentation with minimal effort.
 - [Blume](https://useblume.dev/) - Fast, AI-ready, and markdown-first documentation site generator.
+- [Heyo Docs](https://docs.heyo.sh/) - Open-source Docs for Developers. Build fast, beautiful documentation sites with MDX, React, and a theme made for developers.

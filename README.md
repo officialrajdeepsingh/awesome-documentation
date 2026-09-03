@@ -22,6 +22,7 @@ A curated list of awesome documentation-based libraries that help build small an
 - [How to Write Your First Technical Book: Tools, Techniques, and Resources for First-time Developer Authors](https://www.freecodecamp.org/news/how-to-write-your-first-technical-book)
 - [A practical guide to writing technical specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
 - [How to Start a Career in Technical Writing by Contributing to Open Source](https://www.freecodecamp.org/news/start-a-career-in-technical-writing-through-open-source)
+- [How to Build API Documentation From Scratch [A Roadmap for Technical Writers]](https://www.freecodecamp.org/news/how-to-build-api-documentation-from-scratch-roadmap/)
 
 ## Platform
 

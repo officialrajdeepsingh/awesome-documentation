@@ -11,8 +11,8 @@ A curated list of awesome documentation-based libraries that help build small an
 
 ## Courses
 
-- [Technical Writing Courses By Google](https://developers.google.com/tech-writing) - Learn to write better technical documents with our courses and resources, including insights into the role of technical writers at Google.
-- [GitLab Technical Writing Fundamentals By GitLab](https://university.gitlab.com/courses/gitlab-technical-writing-fundamentals) - The GitLab Technical Writing Fundamentals course can help you improve your documentation by guiding grammar, writing, and topic selection.
+- [Technical Writing Courses by Google](https://developers.google.com/tech-writing) - Learn to write better technical documents with our courses and resources, including insights into the role of technical writers at Google.
+- [GitLab Technical Writing Fundamentals by GitLab](https://university.gitlab.com/courses/gitlab-technical-writing-fundamentals) - The GitLab Technical Writing Fundamentals course can help you improve your documentation by guiding grammar, writing, and topic selection.
 - [Creating Effective Documentation for Developers course by Linux Foundation](https://training.linuxfoundation.org/training/open-source-technical-documentation-essentials-lfc111) - This course will help you understand how to write API documentation.
 - [Diátaxis](https://diataxis.fr) - Diátaxis is a systematic framework for technical documentation authoring. It organizes content into four distinct types based on user needs: tutorials, how-to guides, reference material, and explanations.
 
@@ -43,9 +43,9 @@ A curated list of awesome documentation-based libraries that help build small an
 
 - [Nextra](https://nextra.site/) - Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
 - [Markdoc](https://markdoc.dev/) - Markdoc is a powerful, flexible, Markdown-based authoring framework.
-- [Outstatic](https://outstatic.com) - Outstatic is a new static site content management system(CMS) built with Next.js. Special built for Next.js. It works with a page and app router.
-- [Content layer](https://www.npmjs.com/package/contentlayer) - The content layer works with nextjs and Markdown and helps build the blog application.
-- [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly, focus on your content.
+- [Outstatic](https://outstatic.com) - Outstatic is a new static site content management system(CMS) built with Next.js. Specially built for Next.js. It works with the page and app router.
+- [Contentlayer](https://www.npmjs.com/package/contentlayer) - The content layer works with nextjs and Markdown and helps build the blog application.
+- [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly; focus on your content.
 - [Lume](https://lume.land) - The fast & flexible static site generator for Deno.
 - [Docsify.js](https://docsify.js.org) - A magical documentation site generator.
 - [Code doc](https://codedoc.cc) - Code Doc is a simple, lightweight, easy-to-configure documentation generator for modern software documentation.
@@ -63,5 +63,5 @@ A curated list of awesome documentation-based libraries that help build small an
 - [Docus](https://docus.dev) - Write beautiful documentation with Markdown.
 - [Rspress](https://rspress.rs) - Rspress is a fast React-based static site generator for modern documentation, blogs, and product websites.
 - [VitePress](https://vitepress.dev) - VitePress is a Vite and Vue-powered static site generator designed specifically for creating fast, beautiful documentation with minimal effort.
-- [Blume](https://useblume.dev/) - Fast, AI-ready, and markdown-first documentation site generator.
+- [Blume](https://useblume.dev/) - Fast, AI-ready, and Markdown-first documentation site generator.
 - [Heyo Docs](https://docs.heyo.sh/) - Open-source Docs for Developers. Build fast, beautiful documentation sites with MDX, React, and a theme made for developers.

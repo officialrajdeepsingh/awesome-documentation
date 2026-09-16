@@ -52,7 +52,7 @@ A curated list of awesome documentation-based libraries that help build small an
 - [Starlight](https://starlight.astro.build/) - Build beautiful, accessible, high-performance documentation websites with Astro.
 - [Compodoc](https://compodoc.app/) - Compodoc is a documentation tool for Angular applications that generates static documentation websites.
 - [Fumadocs](https://fumadocs.vercel.app/) - Fumadocs is a powerful framework for building documentation sites in Next.js using the power of Next.js App Router and React components.
-- [MDXTS](https://www.mdxts.dev) - The MDXTS is a content & documentation SDK for React and Nextjs. It helps to build a documentation website quickly and efficiently.
+- [ReNoun](https://www.renoun.dev/) - Turn your JavaScript, TypeScript, Markdown, and MDX into reusable structured data for blogs, docs, and presentations so your content always matches what's in your codebase.
 - [Doks](https://getdoks.org/) - Build a fantastic documentation website with Doks that is fast, accessible, and easy to use.
 - [Code Hike](https://codehike.org) - Build rich content websites with Markdown and React.
 - [Type Docs](https://github.com/TypeStrong/typedoc) - Generate the documentation for TypeScript.

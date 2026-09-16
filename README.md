@@ -43,7 +43,7 @@ A curated list of awesome documentation-based libraries that help build small an
 
 - [Nextra](https://nextra.site/) - Nextra is a simple, powerful, and flexible site generation framework to build blogs and documents with Next.js and MDX.
 - [Markdoc](https://markdoc.dev/) - Markdoc is a powerful, flexible, Markdown-based authoring framework.
-- [Outstatic](https://outstatic.com) - Outstatic is a new static site content management system(CMS) built with Next.js. Specially built for Next.js. It works with the page and app router.
+- [Outstatic](https://outstatic.com) - Outstatic is a new static site content management system(CMS) built with Next.js. Specifically built for Next.js. It works with the page and app router.
 - [Contentlayer](https://www.npmjs.com/package/contentlayer) - The content layer works with nextjs and Markdown and helps build the blog application.
 - [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly; focus on your content.
 - [Lume](https://lume.land) - The fast & flexible static site generator for Deno.

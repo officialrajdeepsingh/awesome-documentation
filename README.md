@@ -48,6 +48,7 @@ A curated list of awesome documentation-based libraries that help build small an
 - [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly; focus on your content.
 - [Lume](https://lume.land) - The fast & flexible static site generator for Deno.
 - [Docsify.js](https://docsify.js.org) - A magical documentation site generator.
+- [Sourcey](https://sourcey.com/docs) - Open-source generator for static documentation sites built from Markdown, OpenAPI, MCP, Doxygen, godoc, and rustdoc.
 - [Code doc](https://codedoc.cc) - Code Doc is a simple, lightweight, easy-to-configure documentation generator for modern software documentation.
 - [Starlight](https://starlight.astro.build/) - Build beautiful, accessible, high-performance documentation websites with Astro.
 - [Compodoc](https://compodoc.app/) - Compodoc is a documentation tool for Angular applications that generates static documentation websites.

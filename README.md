@@ -38,6 +38,7 @@ A curated list of awesome documentation-based libraries that help build small an
 - [Trupeer](https://www.trupeer.ai/) - Trupeer is an AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
 - [Jamdesk](https://jamdesk.com/) - A developer documentation platform with MDX authoring, OpenAPI references, AI chat, and custom domains.
 - [Papervine](https://www.papervine.io/) - AI-powered self-updating knowledge platform. Open source or hosted.
+- [Sourcey](https://sourcey.com/docs) - Open-source generator for static documentation sites built from Markdown, OpenAPI, MCP, Doxygen, godoc, and rustdoc.
 
 ## JavaScript
 

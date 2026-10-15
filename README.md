@@ -38,6 +38,7 @@ A curated list of awesome documentation-based libraries that help build small an
 - [Trupeer](https://www.trupeer.ai/) - Trupeer is an AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
 - [Jamdesk](https://jamdesk.com/) - A developer documentation platform with MDX authoring, OpenAPI references, AI chat, and custom domains.
 - [Papervine](https://www.papervine.io/) - AI-powered self-updating knowledge platform. Open source or hosted.
+- [Sourcey](https://sourcey.com/docs) - Open-source generator for static documentation sites built from Markdown, OpenAPI, MCP, Doxygen, godoc, and rustdoc.
 
 ## JavaScript
 
@@ -48,7 +49,6 @@ A curated list of awesome documentation-based libraries that help build small an
 - [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly; focus on your content.
 - [Lume](https://lume.land) - The fast & flexible static site generator for Deno.
 - [Docsify.js](https://docsify.js.org) - A magical documentation site generator.
-- [Sourcey](https://sourcey.com/docs) - Open-source generator for static documentation sites built from Markdown, OpenAPI, MCP, Doxygen, godoc, and rustdoc.
 - [Code doc](https://codedoc.cc) - Code Doc is a simple, lightweight, easy-to-configure documentation generator for modern software documentation.
 - [Starlight](https://starlight.astro.build/) - Build beautiful, accessible, high-performance documentation websites with Astro.
 - [Compodoc](https://compodoc.app/) - Compodoc is a documentation tool for Angular applications that generates static documentation websites.

@@ -66,3 +66,4 @@ A curated list of awesome documentation-based libraries that help build small an
 - [Blume](https://useblume.dev/) - Fast, AI-ready, and Markdown-first documentation site generator.
 - [Heyo Docs](https://docs.heyo.sh/) - Open-source Docs for Developers. Build fast, beautiful documentation sites with MDX, React, and a theme made for developers.
 - [Vocs](https://vocs.dev/) - Vocs is a lightweight documentation framework for agents and humans that stays simple at the source and rich in the browser.
+- [Docsmith](https://docsmith.geodask.com/docs/components/steps) - Build interactive documentation websites with Svelte 5 and SvelteKit.

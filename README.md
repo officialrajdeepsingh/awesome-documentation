@@ -23,6 +23,7 @@ A curated list of awesome documentation-based libraries that help build small an
 - [A practical guide to writing technical specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
 - [How to Start a Career in Technical Writing by Contributing to Open Source](https://www.freecodecamp.org/news/start-a-career-in-technical-writing-through-open-source)
 - [How to Build API Documentation From Scratch [A Roadmap for Technical Writers]](https://www.freecodecamp.org/news/how-to-build-api-documentation-from-scratch-roadmap/)
+- [Improve Your Technical Writing Skills to Advance Your Career](https://www.freecodecamp.org/news/improve-your-technical-writing-skills-to-advance-your-career/)
 
 ## Platform
 
@@ -67,4 +68,4 @@ A curated list of awesome documentation-based libraries that help build small an
 - [Heyo Docs](https://docs.heyo.sh/) - Open-source Docs for Developers. Build fast, beautiful documentation sites with MDX, React, and a theme made for developers.
 - [Vocs](https://vocs.dev/) - Vocs is a lightweight documentation framework for agents and humans that stays simple at the source and rich in the browser.
 - [Docsmith](https://docsmith.geodask.com/docs/components/steps) - Build interactive documentation websites with Svelte 5 and SvelteKit.
-- [Comark](https://comark.dev) - Comark is an open-source Markdown parser and renderer with components, attributes and plugins. It renders to React, Vue, Svelte, Angular, HTML and the terminal, and streams AI output.
+- [Comark](https://comark.dev) - Comark is an open-source Markdown parser and renderer with components, attributes, and plugins. It renders to React, Vue, Svelte, Angular, HTML, and the terminal, and streams AI output.
